@@ -90,8 +90,6 @@ Nel caso del dataset `diabetes`, il problema è di **previsione clinica**: vogli
 Più precisamente, la variabile `target` ci fornisce un valore numerico che rappresenta la **gravità del diabete** a distanza di un anno.  
 Questo significa che ci troviamo in un **contesto di regressione**, dove l’obiettivo è stimare una quantità continua (non classificare per categorie).
 
----
-
 ### 🗒️ Prendere appunti sulle variabili
 
 Un esercizio molto utile in questa fase consiste nel redigere una **scheda descrittiva** delle variabili.  
@@ -112,7 +110,7 @@ ci aiuta a sviluppare l’intuizione rispetto alla **rilevanza potenziale di cia
 
 ---
 
-## 🧰 Funzioni utili di Pandas
+### 🧰 Funzioni utili di Pandas
 
 Durante l’esplorazione iniziale faremo leva su alcune **funzioni fondamentali di Pandas**, che ci aiutano a ottenere una panoramica compatta e sintetica del dataset.
 
